@@ -1,4 +1,4 @@
-#start
+tart
 
 #hint: <b>Ask SLM Ribbon</b>\nThe Ask SLM Ribbon is a momentum indicator that uses a combination of three exponential moving averages. When the averages are in alinement, with the "superfast" moving average above the "fast" moving average and the fast moving average above the "slow" moving average, the momentum condition is positive. A "buy signal" is generated, with an up arrow, when above conditions are met and a "clear bar" occurs; with the low of that bar is above all of the moving averages. The positive momentum ends if the superfast moving average touches the fast moving average; then condition is considered neutral and an oppostive arrow will appear. Negative momentum and a "Sell signal" are the opposite of the bullish conditions. \n \n\n--------------------------------------------------------------------------------\nVolume bars can be colored to match the Chart by clicking on Style>Settings>Appearance>Common, and color symbol as ticks  \n
 
